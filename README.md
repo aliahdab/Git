@@ -9,7 +9,7 @@ Also check out our Git [playlist](https://www.youtube.com/playlist?list=PLVYDhqb
 
 ## Lectures
 
-### [Lecture 1](Lecture-1.md)
+### [Lecture 1](Lectur-1.md)
 1. Version Control
 2. Terminal Time
 3. Singleplayer Git
