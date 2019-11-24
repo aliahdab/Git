@@ -14,7 +14,7 @@ Also check out our Git [playlist](https://www.youtube.com/playlist?list=PLVYDhqb
 2. Terminal Time
 3. Singleplayer Git
 
-### [Lecture 2](Lecture-2.md)
+### [Lecture 2](Lectur-2.md)
 1. Branches
 2. Merging
 
