@@ -9,12 +9,12 @@ Also check out our Git [playlist](https://www.youtube.com/playlist?list=PLVYDhqb
 
 ## Lectures
 
-### [Lecture 1](Lectur-1.md)
+### [Lecture 1](Lecture-1.md)
 1. Version Control
 2. Terminal Time
 3. Singleplayer Git
 
-### [Lecture 2](Lectur-2.md)
+### [Lecture 2](Lecture-2.md)
 1. Branches
 2. Merging
 
